@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1467309157 source:c:\users\emilie\desktop\matice\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+
+1467237709 source:g:\224 75 left 224 77 right\matice\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
